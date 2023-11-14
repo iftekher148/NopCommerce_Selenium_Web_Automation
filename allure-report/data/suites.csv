@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Nov 14 17:20:06 BDT 2023","Tue Nov 14 17:20:07 BDT 2023","602","All Test Suite","F:/Java Automation/nopCommerce_P1","testcases.TestHomePage","testcases.TestHomePage","testHomePageRegistrationButton","testHomePageRegistrationButton",""
+"passed","Tue Nov 14 17:20:07 BDT 2023","Tue Nov 14 17:20:07 BDT 2023","563","All Test Suite","F:/Java Automation/nopCommerce_P1","testcases.TestHomePage","testcases.TestHomePage","testHomePageLoginButton","testHomePageLoginButton",""
+"passed","Tue Nov 14 17:20:12 BDT 2023","Tue Nov 14 17:20:14 BDT 2023","2074","All Test Suite","F:/Java Automation/nopCommerce_P1","testcases.TestLoginPage","testcases.TestLoginPage","testLoginPage","testLoginPage",""
+"passed","Tue Nov 14 17:20:04 BDT 2023","Tue Nov 14 17:20:06 BDT 2023","1770","All Test Suite","F:/Java Automation/nopCommerce_P1","testcases.TestHomePage","testcases.TestHomePage","testHomePageTitle","testHomePageTitle",""
+"passed","Tue Nov 14 17:20:14 BDT 2023","Tue Nov 14 17:20:18 BDT 2023","3709","All Test Suite","F:/Java Automation/nopCommerce_P1","testcases.TestSearchProduct","testcases.TestSearchProduct","testSearchProduct","testSearchProduct",""
+"passed","Tue Nov 14 17:20:07 BDT 2023","Tue Nov 14 17:20:12 BDT 2023","4931","All Test Suite","F:/Java Automation/nopCommerce_P1","testcases.TestRegistrationPage","testcases.TestRegistrationPage","testRegistrationPage","testRegistrationPage",""
+"passed","Tue Nov 14 17:20:06 BDT 2023","Tue Nov 14 17:20:06 BDT 2023","523","All Test Suite","F:/Java Automation/nopCommerce_P1","testcases.TestHomePage","testcases.TestHomePage","testHomePageUrl","testHomePageUrl",""

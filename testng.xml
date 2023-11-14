@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="F:/Java Automation/nopCommerce_P1">
+        <classes>
+            <class name="testcases.TestHomePage">
+                <methods>
+                    <include name="testHomePageTitle"/>
+                    <include name="testHomePageUrl"/>
+                    <include name="testHomePageRegistrationButton"/>
+                    <include name="testHomePageLoginButton"/>
+                </methods>
+            </class>
+            <class name="testcases.TestRegistrationPage">
+                <methods>
+                    <include name="testRegistrationPage"/>
+                </methods>
+            </class>
+            <class name="testcases.TestLoginPage">
+                <methods>
+                    <include name="testLoginPage"/>
+                </methods>
+            </class>
+            <class name="testcases.TestSearchProduct">
+                <methods>
+                    <include name="testSearchProduct"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
