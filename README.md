@@ -33,6 +33,11 @@ I have use https://demo.nopcommerce.com/ site for my automation testing.This is 
 3. Search Product Item
 ###Project Video Record
 https://www.loom.com/share/8d87f026e9b94a74a226b3197997b592?sid=1595ac21-5146-4997-9b15-33a12be066ad
+###Report
+![image](https://github.com/iftekher148/NopCommerce_Selenium_Web_Automation/assets/37367596/ce6dd869-625c-4914-bb99-6eee9ffa16b2)
+![image](https://github.com/iftekher148/NopCommerce_Selenium_Web_Automation/assets/37367596/fa61dbfb-b942-4bd7-b534-5e18484c5747)
+
+
 
 
 
