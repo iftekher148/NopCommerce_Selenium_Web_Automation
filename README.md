@@ -31,6 +31,8 @@ I have use https://demo.nopcommerce.com/ site for my automation testing.This is 
 1. Register Page  
 2. Login Page
 3. Search Product Item
+###Project Video Record
+https://www.loom.com/share/8d87f026e9b94a74a226b3197997b592?sid=1595ac21-5146-4997-9b15-33a12be066ad
 
 
 
